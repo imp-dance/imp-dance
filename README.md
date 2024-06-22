@@ -8,7 +8,7 @@
 
 Currently, I'm doing contract work for my own company, [Ryfylke React AS](https://github.com/ryfylke-react-as).
 
-I have been doing front-end focused web development professionally for the last 6 years. These days, I mostly work with React and Typescript.
+I have been doing front-end focused web development professionally for almost 10 years! These days, I mostly work with React and Typescript.
 
 
 Take a look at my website, [haakon.dev](https://haakon.dev) for more about me!
