@@ -8,9 +8,9 @@
 
 Currently, I'm doing contract work for my own company, [Ryfylke React AS](https://github.com/ryfylke-react-as) as well as [Buildr Labs](https://www.buildrlabs.io/).
 
-I have been doing front-end focused web development professionally for over 10 years! These days, I mostly work with **`React`** and **`Typescript`** - but I've got experience across the board, including lots of user experience, and a bit of backend.
+I have been doing front-end focused web development professionally for over 10 years!
 
 
-Take a look at my website, [👨‍💻 håkon.dev](https://haakon.dev) to learn more about me!
+Take a look at my website, [👨‍💻 håkon.dev](https://haakon.dev) to learn more about me.
 
 ...Or if you'd like to work with me - reach out to [⚙ Buildr Labs](https://www.buildrlabs.io/) directly!
